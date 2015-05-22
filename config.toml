@@ -1,5 +1,5 @@
-#baseurl = "http://bfh.whitmorriss.org/"
-baseurl = "http://localhost:1313"
+baseurl = "http://bfh.whitmorriss.org"
+#baseurl = "http://localhost:1313"
 languageCode = "en-us"
 title = "BFH"
 
