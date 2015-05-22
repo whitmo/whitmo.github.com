@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BFH</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on BFH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Mar 2015 20:23:46 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Tue, 03 Mar 2015 20:23:46 -0600</pubDate>
+      
+      <guid>http://localhost:1313/resume/</guid>
+      <description>
+
+&lt;h1 id=&#34;d-whit-morriss:c59a67a3c7bc5faa453847420267045e&#34;&gt;D. &amp;ldquo;Whit&amp;rdquo; Morriss&lt;/h1&gt;
+
+&lt;p&gt;Nashville, TN, USA&lt;/p&gt;
+
+&lt;p&gt;Email: &lt;a href=&#34;mailto:d.w.morriss@gmail.com&#34;&gt;d.w.morriss@gmail.com&lt;/a&gt;
+Github: &lt;a href=&#34;http://github.com/whitmo&#34;&gt;whitmo&lt;/a&gt;
+Twitter: &lt;a href=&#34;http://twitter.com/whit&#34;&gt;@whit&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;relavent-or-notable-recent-experience:c59a67a3c7bc5faa453847420267045e&#34;&gt;Relavent or Notable Recent Experience&lt;/h2&gt;
+
+&lt;h3 id=&#34;work:c59a67a3c7bc5faa453847420267045e&#34;&gt;Work&lt;/h3&gt;
+
+&lt;h4 id=&#34;spring-2014-spring-2015-canonical:c59a67a3c7bc5faa453847420267045e&#34;&gt;Spring 2014 - Spring 2015 Canonical&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;2015: &amp;ldquo;Anchor&amp;rdquo; for team explore ways to deploy and orchestrate
+     docker, kubernetes, and friends with Canonical&amp;rsquo;s large
+     orchestration project, Juju.  Experimenting with community
+     engagement strategies around opensource projects and Juju
+     using data and good sense.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; Delivered talk at PyTN about heka monitoring system which
+ showcased heka deployed with juju, using juju to managing
+ connection between heka and various sources of monitoring
+ data and various outputs.
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2014: Developed system to extract Cloudfoundry from one
+     orchestration system (Bosh), repackage it, and deploy it with
+     another orchestration system.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; Brief foray in product management for Juju at large. Lost a
+ public argument with Mark Shuttleworth about the direction of
+ technology.
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;spring-2010-spring-2014-surveymonkey:c59a67a3c7bc5faa453847420267045e&#34;&gt;Spring 2010 - Spring 2014 SurveyMonkey&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2014: Engineering lead on system engineering team&lt;/li&gt;
+&lt;li&gt;2013: Designed and implemented mobile authentication system.&lt;/li&gt;
+&lt;li&gt;2012: Bootstrapped and managed devops teams&lt;/li&gt;
+&lt;li&gt;2011: Developed release &amp;amp; deployment system&lt;/li&gt;
+&lt;li&gt;2010: Lead engineer and &amp;ldquo;python guy&amp;rdquo; on billing system rewrite from
+     .Net to python&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;2002-2010:c59a67a3c7bc5faa453847420267045e&#34;&gt;2002 - 2010&lt;/h4&gt;
+
+&lt;p&gt;Emma, OpenGeo (now BoundlessGeo), OpenPlans, LongNow Foundation, Black
+Rock Arts Foundation.&lt;/p&gt;
+
+&lt;h2 id=&#34;pertinent-areas-of-interest:c59a67a3c7bc5faa453847420267045e&#34;&gt;Pertinent Areas of interest&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;continuous delivery / software lifecycle.&lt;/li&gt;
+&lt;li&gt;web/net ops and development.&lt;/li&gt;
+&lt;li&gt;monitoring / metrics.&lt;/li&gt;
+&lt;li&gt;supporting production systems at scale.&lt;/li&gt;
+&lt;li&gt;working on systems that touch and empower everyday users.&lt;/li&gt;
+&lt;li&gt;figuring out what various languages and tools are really good for.&lt;/li&gt;
+&lt;li&gt;opensource and bringing people together around building things.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Mon, 02 Mar 2015 21:43:17 -0600</pubDate>
+      
+      <guid>http://localhost:1313/post/first/</guid>
+      <description>&lt;p&gt;Hey ya, hey ya&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About the name</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 02 Mar 2015 21:30:42 -0600</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;bfh:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;BFH&lt;/h2&gt;
+
+&lt;p&gt;As a kid at summer camp, one of the counselors told a story about
+wrapping an canoe around one of the huge rocks where the South River
+dumps into the James in Rockbridge County, Va.  As my hero dragged his
+busted ass canoe out of river, one of the local called out to
+them.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Looks like you gonna need a BFH&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;What&amp;rsquo;s that?&amp;rdquo; they replied.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Big [expletive] Hammer&amp;rdquo;, the local barked back.&lt;/p&gt;
+
+&lt;p&gt;This has always stuck with me as an apt parable of practical
+application of technology and disaster.  It served as the title of my
+first blog long ago, and though many things have changed since then, I
+think it&amp;rsquo;s still a servicable title for a blog about technology,
+people and my interactions with the both.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

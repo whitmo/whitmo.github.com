@@ -1,0 +1,18 @@
+#baseurl = "http://bfh.whitmorriss.org/"
+baseurl = "http://localhost:1313"
+languageCode = "en-us"
+title = "BFH"
+
+[params]
+   title="hammerfactoryfactory"
+   tagline = "underpromise. deliver."
+   githubUrl = "https://github.com/whitmo"
+   author="Whit Morriss"
+   copyright="CC Attribution 4.0 International"
+   github="whitmo"
+   twitter="whit"
+   linkedin="whitmorriss"
+   email="me@whitmorriss.org"
+   cv="/resume"
+   about="/about"
+   description="Thoughts about tech, people and everything between."
