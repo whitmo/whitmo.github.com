@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on BFH</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://bfh.whitmorriss.org/post/</link>
     <description>Recent content in Posts on BFH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Mar 2015 21:43:17 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://bfh.whitmorriss.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first</title>
-      <link>http://localhost:1313/post/first/</link>
+      <link>http://bfh.whitmorriss.org/post/first/</link>
       <pubDate>Mon, 02 Mar 2015 21:43:17 -0600</pubDate>
       
-      <guid>http://localhost:1313/post/first/</guid>
+      <guid>http://bfh.whitmorriss.org/post/first/</guid>
       <description>&lt;p&gt;Hey ya, hey ya&lt;/p&gt;
 </description>
     </item>

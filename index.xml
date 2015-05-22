@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BFH</title>
-    <link>http://localhost:1313/</link>
+    <link>http://bfh.whitmorriss.org/</link>
     <description>Recent content on BFH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Mar 2015 20:23:46 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://bfh.whitmorriss.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>resume</title>
-      <link>http://localhost:1313/resume/</link>
+      <link>http://bfh.whitmorriss.org/resume/</link>
       <pubDate>Tue, 03 Mar 2015 20:23:46 -0600</pubDate>
       
-      <guid>http://localhost:1313/resume/</guid>
+      <guid>http://bfh.whitmorriss.org/resume/</guid>
       <description>
 
 &lt;h1 id=&#34;d-whit-morriss:c59a67a3c7bc5faa453847420267045e&#34;&gt;D. &amp;ldquo;Whit&amp;rdquo; Morriss&lt;/h1&gt;
@@ -86,20 +86,20 @@ Rock Arts Foundation.&lt;/p&gt;
     
     <item>
       <title>first</title>
-      <link>http://localhost:1313/post/first/</link>
+      <link>http://bfh.whitmorriss.org/post/first/</link>
       <pubDate>Mon, 02 Mar 2015 21:43:17 -0600</pubDate>
       
-      <guid>http://localhost:1313/post/first/</guid>
+      <guid>http://bfh.whitmorriss.org/post/first/</guid>
       <description>&lt;p&gt;Hey ya, hey ya&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About the name</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://bfh.whitmorriss.org/about/</link>
       <pubDate>Mon, 02 Mar 2015 21:30:42 -0600</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://bfh.whitmorriss.org/about/</guid>
       <description>
 
 &lt;h2 id=&#34;bfh:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;BFH&lt;/h2&gt;
